@@ -1,0 +1,10 @@
+body{
+	background-color: aliceblue;
+    background-image: url("https://img.freepik.com/free-photo/top-view-books-with-copy-space_23-2148827187.jpg?w=2000");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.formBackground{
+    background-color: white;
+}
